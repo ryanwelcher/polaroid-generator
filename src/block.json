@@ -3,10 +3,10 @@
 	"apiVersion": 3,
 	"name": "create-block/random-photo-generator",
 	"version": "0.1.0",
-	"title": "Random Photo Generator",
+	"title": "Polaroid Generator",
 	"category": "media",
 	"icon": "images-alt",
-	"description": "Display a set of random image from https://picsum.photos/ styles as polaroids.",
+	"description": "Display a grid of random image from https://picsum.photos/ styled as polaroids.",
 	"example": {},
 	"attributes": {
 		"photos": {

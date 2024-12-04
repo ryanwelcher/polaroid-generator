@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       Random Photo Generator
+ * Plugin Name:       Polaroid Generator - Completed
  * Description:       Example block scaffolded with Create Block tool.
  * Requires at least: 6.6
  * Requires PHP:      7.2
