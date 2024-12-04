@@ -9,7 +9,7 @@ $photos = $attributes['photos'];
 				src="<?php echo esc_url( add_query_arg( 'random', $i, 'https://picsum.photos/200/150' ) ); ?>"
 				width="200"
 				loading="lazy"
-				alt="Example image from https://picsum.photos/"
+				alt="Random image from https://picsum.photos/"
 			/>
 		</div>
 	<?php endfor; ?>
