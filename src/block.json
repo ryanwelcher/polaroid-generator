@@ -4,9 +4,9 @@
 	"name": "create-block/random-photo-generator",
 	"version": "0.1.0",
 	"title": "Random Photo Generator",
-	"category": "widgets",
+	"category": "media",
 	"icon": "images-alt",
-	"description": "Example block scaffolded with Create Block tool.",
+	"description": "Display a set of random image from https://picsum.photos/ styles as polaroids.",
 	"example": {},
 	"attributes": {
 		"photos": {
