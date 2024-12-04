@@ -1,14 +1,14 @@
 <?php
 /**
  * Plugin Name:       Polaroid Generator - Completed
- * Description:       Example block scaffolded with Create Block tool.
+ * Description:       Display a grid of random image from https://picsum.photos/ styled as polaroids.
  * Requires at least: 6.6
  * Requires PHP:      7.2
  * Version:           0.1.0
  * Author:            The WordPress Contributors
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain:       random-photo-generator
+ * Text Domain:       polaroid-generator
  *
  * @package CreateBlock
  */
